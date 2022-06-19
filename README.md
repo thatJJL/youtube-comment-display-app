@@ -9,4 +9,4 @@ It only has minor additions or changes such as an updated bootstrap link &amp; d
 
 "Youtube Comment Api Project in Javascript Using Youtube Data Api V3"
 
-![alt text](https://github.com/thatjjl/youtube-comment-display-app/blob/images/image.jpg?raw=true)
+![alt text](https://github.com/thatjjl/youtube-comment-display-app/blob/images/previewAndShowcase.jpg?raw=true)
