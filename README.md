@@ -8,3 +8,5 @@ It only has minor additions or changes such as an updated bootstrap link &amp; d
 (All written/typed using Notepad. I was transferring between laptops at the time 19:37pm 19/6/22). 
 
 "Youtube Comment Api Project in Javascript Using Youtube Data Api V3"
+
+![alt text](https://github.com/thatjjl/youtube-comment-display-app/blob/images/image.jpg?raw=true)
