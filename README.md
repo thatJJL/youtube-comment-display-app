@@ -9,4 +9,6 @@ It only has minor additions or changes such as an updated bootstrap link &amp; d
 
 "Youtube Comment Api Project in Javascript Using Youtube Data Api V3"
 
-![Picture showing a search bar with a youtube video id within, a button labelled as "Display Comments" within it and a number of youtube comments, the author names and their profile pictures listed below.](images/previewAndShowcase.png?raw=true "Title")
+![alt text](https://github.com/thatjjl/youtube-comment-display-app/blob/images/previewAndShowcase.png?raw=true)
+
+![Alt text](images/previewAndShowcase.png?raw=true "Title")
